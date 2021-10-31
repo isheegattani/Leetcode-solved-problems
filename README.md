@@ -13,4 +13,5 @@
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python3](./solutions/206.%20Reverse%20Linked%20List.py)|36 ms|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python3](./solutions/283.%20Move%20Zeroes.py)|52 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[Python3](./solutions/344.%20Reverse%20String.py)||
+|435|[ Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Python3](./solutions/435.%20Non-overlapping%20Intervals.py)|1480 ms|
 |441|[ Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Python3](./solutions/441.%20Arranging%20Coins.py)|1196 ms|
