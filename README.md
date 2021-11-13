@@ -15,3 +15,4 @@
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[Python3](./solutions/344.%20Reverse%20String.py)||
 |435|[ Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Python3](./solutions/435.%20Non-overlapping%20Intervals.py)|1480 ms|
 |441|[ Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Python3](./solutions/441.%20Arranging%20Coins.py)|1196 ms|
+|678|[ Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Python3](./solutions/678.%20Valid%20Parenthesis%20String.py)|32 ms|
